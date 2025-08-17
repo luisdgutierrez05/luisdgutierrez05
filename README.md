@@ -72,4 +72,4 @@ I'm a Senior Software Engineer with 9+ years of experience specializing in Ruby 
 
 <h3>Github stats</h3>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=luisdgutierrez05&show_icons=true&theme=shadow_green&show_owner=false&include_all_commits=true&hide_title=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=luisdgutierrez05&show_icons=true&theme=vue-dark&show_owner=false&include_all_commits=true&hide_title=true&count_private=true)
