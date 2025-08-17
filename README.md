@@ -64,14 +64,17 @@ I'm a Senior Software Engineer with 9+ years of experience specializing in Ruby 
 ![Snowflake](https://img.shields.io/badge/-Snowflake-000000?style=flat-square&logo=snowflake&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat-square&logo=postman&logoColor=ffffff)
 
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=ffffff)
 ![Vim](https://img.shields.io/badge/-Vim-000000?style=flat-square&logo=vim&logoColor=ffffff)
 ![Tmux](https://img.shields.io/badge/-Tmux-000000?style=flat-square&logo=tmux&logoColor=ffffff)
 ![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=ffffff)
 ![VSCode](https://img.shields.io/badge/-VSCode-000000?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
 
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=ffffff)
 ![Jira](https://img.shields.io/badge/-Jira-000000?style=flat-square&logo=jira&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=ffffff)
+
+![Slack](https://img.shields.io/badge/-Slack-000000?style=flat-square&logo=slack&logoColor=ffffff)
+![Teams](https://img.shields.io/badge/-Microsoft%20Teams-000000?style=flat-square&logo=microsoftteams&logoColor=ffffff)
 
 <h3>Github stats</h3>
 
